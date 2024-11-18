@@ -1,0 +1,29 @@
+body{
+    font-family: "Bokor", system-ui;
+    background-color: blue;
+    color: whitesmoke ;
+    margin-bottom: 100px;
+}
+
+header{
+    color:rgb(130, 130, 223);
+    border-bottom: 3px solid rgb(134, 73, 73);
+    font-size: 32px;
+    padding: 15px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+.chamada{
+    background: rgb(4, 4, 94);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5px;
+}
