@@ -2,6 +2,7 @@ body{
     font-family: "Bokor", system-ui;
     background-color: blue;
     color: whitesmoke ;
+    margin: 0px;
     margin-bottom: 100px;
 }
 header{
