@@ -4,18 +4,15 @@ body{
     color: whitesmoke ;
     margin-bottom: 100px;
 }
-
 header{
     color:rgb(130, 130, 223);
     border-bottom: 3px solid rgb(134, 73, 73);
     font-size: 32px;
     padding: 15px;
 }
-
 h1{
     font-size: 35px;
 }
-
 .chamada{
     background: rgb(4, 4, 94);
     margin-top: 80px;
@@ -23,28 +20,23 @@ h1{
     display: flex;
     justify-content: center;
 }
-
 .chamada-texto{
     margin-right: 5px;
 }
-
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
-
 .categoria-videos{
     display: flex;
     overflow-x:auto;
     gap: 20px;
 }
-
 .categoria-video img{
 height: 200px;
 opacity: 0.5;
 }
-
 .categoria-video img :hover{
     opacity: 1.0;
     border: 3px solid rgb(129, 20, 20);
